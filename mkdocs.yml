@@ -6,6 +6,7 @@ nav:
   - Start:
     - 'index.md'
     - Tags: tags.md
+    - Impressum: impressum.md
   - Tools:
     - 'tools/index.md'
 
@@ -21,7 +22,7 @@ theme:
     - navigation.top
   highlightjs: true
 
-copyright: Copyright &copy; 2022 <a href="https://www.smartpeopleautomate.de/">Smart People Automate</a>
+copyright: Copyright &copy; 2022 <a href="https://www.smartpeopleautomate.de/">Oliver Jakoubek, Smart People Automate</a>
 
 plugins:
   - tags:
